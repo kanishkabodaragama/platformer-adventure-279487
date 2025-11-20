@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/platformer-adventure-279487/platformer_game_frontend"
+}
